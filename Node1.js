@@ -1,2 +1,3 @@
 var name = "kyle"
-console.log(name + ", Hello World!");
+var age = 23;
+console.log(name + " i am this many " + age + ", Hello World!");
