@@ -8,7 +8,7 @@ var numberList = [1, 3, 8, 7, 6];
 
 /*
     Problem #2
-    console.log every instance of bleh
+    console.log every instance of bleh and put the count of each time appears next to it
 */
 
 var stringList = ["bleh", "meh", "eh", "bleh", "bleh", "meh"];
